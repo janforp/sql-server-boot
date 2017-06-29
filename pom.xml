@@ -8,6 +8,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>hibername-boot</module>
+		<module>sqlserver-mybatis</module>
+		<module>sqlserver-jpa</module>
 	</modules>
 	<packaging>pom</packaging>
 
