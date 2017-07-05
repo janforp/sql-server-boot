@@ -1,4 +1,4 @@
-package com.janita.mybatis.conif;
+package com.janita.mybatis.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
