@@ -1,0 +1,10 @@
+1.下载虚拟光驱才能打开.iso文件
+daem tools
+
+
+2.sql server 2008 r2 下载安装教程
+https://jingyan.baidu.com/article/c1a3101eb2e7dbde656debef.html
+
+
+3.SQL Server 2008 R2如何开启数据库的远程连接
+https://jingyan.baidu.com/article/6c67b1d6ca06f02787bb1ed1.html
