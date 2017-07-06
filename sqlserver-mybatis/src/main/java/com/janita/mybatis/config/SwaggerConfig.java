@@ -56,8 +56,6 @@ public class SwaggerConfig {
      */
     private List<Parameter> parameterList() {
         List<Parameter> aParameters = new ArrayList<>();
-
-
         return aParameters;
     }
 }
